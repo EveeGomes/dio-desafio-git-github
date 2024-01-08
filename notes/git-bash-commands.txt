@@ -1,0 +1,15 @@
+Notes with commands used in Git Bash.
+Anotações referentes aos comandos utilizados no Git Bash.
+
+Always start with: git
+Iniciar sempre com: git
+
+Some examples:
+Alguns exemplos:
+
+git add file name / nome do arquivo(to add a single file/folder) (para adicionar um único arquivo/pasta)
+git add . (to add all files) (para adicionar todos os arquivos)
+
+git commit -m "message/mensagem"
+git push origin main
+
